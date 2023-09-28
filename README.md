@@ -5,8 +5,8 @@ This repository is designed by me to make training and fine-tuning medium-sized 
 ## Course
 [Advanced Topics in 
 Computational Text and 
-Media Science 2023
-## Citation](https://www.uni-trier.de/fileadmin/fb2/LDV/CL/Webseite/M.A._NLP/Natural_Language_Processing__M.Sc.__1-F__Moduluebersicht_und_Studienverlaufsplan.pdf)
+Media Science 2023](https://www.uni-trier.de/fileadmin/fb2/LDV/CL/Webseite/M.A._NLP/Natural_Language_Processing__M.Sc.__1-F__Moduluebersicht_und_Studienverlaufsplan.pdf)
+## Citation
 I give credit to the HuggingFace's code from their participation to NeurIPS 2018 dialog competition [ConvAI2](http://convai.io/) which was state-of-the-art on the automatic metrics for Transfer Learning, in which a the scripts were inspired from with my own addition to it and OPEN_AI boilerplate was used.
 
 ```bash
