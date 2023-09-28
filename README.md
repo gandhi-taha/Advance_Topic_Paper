@@ -30,3 +30,7 @@ I give credit to the HuggingFace's code from their participation to NeurIPS 2018
 I may release code for evaluating the models on benchmarks.
 
 I'm  still considering to train the model on my own cluster to dive deep into NLP domain to get my hands dirty.
+
+## Supervised by
+[Univ.-Prof. Dr. Achim Rettinger](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/computerlinguistik-und-digital-humanities/computerlinguistik/team/prof-dr-achim-rettinger)
+
